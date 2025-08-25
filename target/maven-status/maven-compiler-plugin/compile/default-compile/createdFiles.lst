@@ -1,0 +1,7 @@
+Main.class
+gestor/GestorFiguras.class
+figura/Retangulo.class
+figura/FiguraFactory.class
+figura/Circulo.class
+figura/Figura.class
+figura/ConfiguracaoPadrao.class
